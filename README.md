@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Pareek</h1>
 <h3 align="center">A passionate backend developer from India. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
